@@ -10,5 +10,6 @@
 6. **Carefully insert** the copied code into the empty **section** element inside the index.html file
 
 ### Selected Pen - link to your selected pen
+https://codepen.io/sarazond/pen/LYGbwj
 
-[**INSERT THE PEN TITLE HERE**](https://codepen.io)
+[Paralax Star Background in CSS](https://codepen.io)
